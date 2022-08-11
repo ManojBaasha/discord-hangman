@@ -7,7 +7,7 @@ A SImple Python Project made with Discord.py in highschool
 Download all the files properly from the repository.<br />
 Create a text file called `token.txt' and paste your token in the text file. Do not share this token<br />
 Update your pip version and install the module discord.ext using 
-````
+```
 pip install discord.ext
 ```
 
